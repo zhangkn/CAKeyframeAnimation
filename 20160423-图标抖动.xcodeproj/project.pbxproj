@@ -105,10 +105,6 @@
 				E11977371CCB3BE100F893CB /* AppDelegate.m */,
 				E11977391CCB3BE100F893CB /* ViewController.h */,
 				E119773A1CCB3BE100F893CB /* ViewController.m */,
-				E119773C1CCB3BE100F893CB /* Main.storyboard */,
-				E119773F1CCB3BE100F893CB /* Assets.xcassets */,
-				E11977411CCB3BE100F893CB /* LaunchScreen.storyboard */,
-				E11977441CCB3BE100F893CB /* Info.plist */,
 				E11977331CCB3BE100F893CB /* Supporting Files */,
 			);
 			path = "20160423-图标抖动";
@@ -117,6 +113,10 @@
 		E11977331CCB3BE100F893CB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E119773C1CCB3BE100F893CB /* Main.storyboard */,
+				E119773F1CCB3BE100F893CB /* Assets.xcassets */,
+				E11977411CCB3BE100F893CB /* LaunchScreen.storyboard */,
+				E11977441CCB3BE100F893CB /* Info.plist */,
 				E11977341CCB3BE100F893CB /* main.m */,
 			);
 			name = "Supporting Files";
