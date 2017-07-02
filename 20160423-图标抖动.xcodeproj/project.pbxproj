@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					E119772F1CCB3BE100F893CB = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = FUV5KWMMAV;
 					};
 					E11977481CCB3BE100F893CB = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -411,6 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FUV5KWMMAV;
 				INFOPLIST_FILE = "20160423-图标抖动/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hisunpay.www.-0160423-----";
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FUV5KWMMAV;
 				INFOPLIST_FILE = "20160423-图标抖动/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hisunpay.www.-0160423-----";
@@ -496,6 +499,7 @@
 				E119775F1CCB3BE100F893CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E11977601CCB3BE100F893CB /* Build configuration list for PBXNativeTarget "20160423-图标抖动Tests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +508,7 @@
 				E11977621CCB3BE100F893CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E11977631CCB3BE100F893CB /* Build configuration list for PBXNativeTarget "20160423-图标抖动UITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +517,7 @@
 				E11977651CCB3BE100F893CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
